@@ -59,7 +59,7 @@ theme_mode: # light / dark
 cdn:
 
 # Avatar for the sidebar
-avatar:
+avatar: "assets/images/FOTO_CV.png"
 
 # Social preview image for SEO
 social_preview_image: # string, local or CORS resources
