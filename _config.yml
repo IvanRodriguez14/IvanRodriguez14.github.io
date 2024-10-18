@@ -38,7 +38,7 @@ social:
   email: ivan.rodriguez.d.14@gmail.com # change to your email address
   links: 
     # The first element serves as the copyright owner's link
-    - https://github.com/username # change to your GitHub homepage
+    - - https://github.com/IvanRodriguez14 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/ivánrodríguezdíaz # Linkedin
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "ivanrodriguez14.github.io"
+baseurl: "https://ivanrodriguez14.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
