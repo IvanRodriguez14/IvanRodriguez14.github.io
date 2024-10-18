@@ -53,7 +53,7 @@ pageviews:
   provider: # now only supports 'goatcounter'
 
 # Theme mode
-theme_mode: light
+theme_mode: dark
 
 # CDN (optional)
 cdn:
